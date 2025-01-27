@@ -1,5 +1,6 @@
 type Parameters = {
   name: string;
+  type?: string;
   hasBlock?: boolean;
 };
 
